@@ -7,8 +7,6 @@
 ## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
 
 
-### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
@@ -67,3 +65,4 @@
 ## Read our Machine learning & Data science related blogs:- [Here](https://www.vruttitanna.com/post/why-kaggle-is-important-for-data-science)
 
 ## Buy more projects at very low price:- [STORE](https://www.instamojo.com/kushalbhavsar1820)
+
