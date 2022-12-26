@@ -6,6 +6,9 @@
 ## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
 ## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
 
+# [Buy me a Coffee☕](https://www.buymeacoffee.com/monishkumal)
+# G PAY upi id: monishkumar0420@okaxis
+
 
 
 ### Code Requirements
